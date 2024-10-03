@@ -20,3 +20,22 @@ for i in idades:
 
 variancia = total / (len(idades) - 1)
 variancia
+# %%
+
+series_idades = pd.Series(idades)
+series_idades
+# %%
+
+series_idades.index = ['t', 'e', 'o', 'c']
+series_idades
+
+#%%
+series_idades.iloc[-2]
+#%%
+series_idades.name ="idades"
+series_idades
+#%%
+series_idades = pd.Series(idades, name="idades")
+series_idades
+
+# %%
