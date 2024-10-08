@@ -7,12 +7,15 @@ data_serie
 #%%
 #Media
 data_serie.mean()
+#%%
 #Desvio padrao
 data_serie.std()
+#%%
 #máximo valor 
 data_serie.max()
 #%%
 
+###=============== EX 2 =============###
 dados = {
     "nome": ['Teo', 'Nah', 'Napoleão'],
     "idade": [31, 32, 14]
@@ -26,3 +29,5 @@ sumario['idade']['mean']
 #%%
 df.columns
 df['nome'].iloc[-1]
+#%%
+df['idade'].mean()
