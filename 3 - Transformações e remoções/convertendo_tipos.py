@@ -9,3 +9,4 @@ df.dtypes
 
 #%%
 df["Points"].astype(str)
+df.dtypes
