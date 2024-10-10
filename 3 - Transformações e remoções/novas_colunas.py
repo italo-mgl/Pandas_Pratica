@@ -44,3 +44,36 @@ df
 #%%
 df = df.drop(columns="Nome_alta")
 df
+
+#%%
+df["Name"].apply(lambda x: x.upper().split("_")[0])
+
+#%%
+
+def intervalo_pontos(pontos):
+    if pontos <2500:
+        return "baixo"
+    elif pontos <3500:
+        return "medio"
+    else:
+        return "alto"
+        
+df["Faixa_pontos"] = df["Points"].apply(intervalo_pontos)
+df
+#%%
+
+df["UUID"].apply(lambda x: x[-3:])
+
+#%%
+
+data2 = {
+    "nome":["Teo", "Nah", "Maria", "Lara"],
+    "recencia":[1,30,10,45],
+    "valor":[100,2000,15,2000],
+    "frequencia":[2,5,1,15]
+}
+#%%
+df_crm = pd.DataFrame(data2)
+df_crm
+#%%
+ 
