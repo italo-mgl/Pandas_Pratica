@@ -1,0 +1,101 @@
+venda_id;cliente_id;data_venda;valor_total;desconto;metodo_pagamento;status;canal_venda;produto_id
+1;27;2024-05-30 12:52:57;371.28;21.12;Cartão de Crédito;Pendente;Marketplace;42
+2;16;2024-09-21 12:57:53;106.96;74.7;Cartão de Crédito;Concluída;Marketplace;69
+3;91;2025-01-06 06:05:04;307.1;55.87;Pix;Pendente;Site;51
+4;95;2024-07-17 14:28:49;138.07;1.87;Cartão de Crédito;Pendente;Loja Física;55
+5;74;2024-07-03 23:32:51;463.98;64.01;Boleto;Concluída;Marketplace;3
+6;42;2024-07-06 10:45:03;254.69;94.76;Boleto;Cancelada;Marketplace;12
+7;56;2024-06-11 13:40:38;860.04;24.33;Pix;Pendente;Loja Física;11
+8;51;2024-06-14 22:03:04;883.47;74.58;Cartão de Crédito;Pendente;Site;10
+9;66;2024-09-02 06:10:03;669.9;53.06;Cartão de Crédito;Pendente;Marketplace;94
+10;83;2025-02-16 10:12:57;833.53;23.63;Cartão de Crédito;Pendente;Site;23
+11;78;2024-07-08 00:13:45;237.58;75.92;Cartão de Crédito;Concluída;Loja Física;64
+12;60;2024-08-21 02:17:41;779.0;75.99;Boleto;Cancelada;Loja Física;83
+13;82;2024-07-08 22:29:57;987.88;32.32;Pix;Pendente;Site;57
+14;9;2024-12-30 20:59:19;522.03;63.14;Boleto;Cancelada;Site;46
+15;65;2024-10-17 12:32:25;166.77;46.17;Cartão de Crédito;Concluída;Marketplace;37
+16;10;2025-02-21 13:47:45;680.2;97.74;Cartão de Crédito;Cancelada;Loja Física;65
+17;50;2024-12-31 05:27:50;516.44;55.43;Pix;Concluída;Marketplace;74
+18;84;2024-06-06 15:58:11;269.42;60.5;Pix;Concluída;Site;58
+19;14;2025-01-20 19:39:07;829.87;83.74;Pix;Concluída;Loja Física;83
+20;23;2024-12-04 18:13:05;135.23;70.76;Boleto;Cancelada;Loja Física;79
+21;21;2024-09-11 03:39:11;427.51;91.79;Boleto;Pendente;Marketplace;87
+22;77;2025-03-16 14:37:01;147.13;63.09;Boleto;Concluída;Marketplace;13
+23;72;2025-03-11 10:07:05;710.54;28.41;Pix;Cancelada;Loja Física;20
+24;43;2025-03-22 08:09:14;173.35;66.36;Boleto;Pendente;Loja Física;90
+25;85;2024-09-19 02:16:30;452.76;59.5;Cartão de Crédito;Pendente;Loja Física;49
+26;83;2025-01-17 09:21:24;812.5;81.32;Pix;Cancelada;Loja Física;88
+27;68;2025-02-13 09:31:26;184.11;67.05;Pix;Pendente;Site;47
+28;40;2024-04-08 14:41:19;262.24;21.42;Boleto;Concluída;Site;18
+29;20;2025-02-13 16:08:53;169.45;84.44;Cartão de Crédito;Cancelada;Loja Física;95
+30;68;2024-07-20 00:17:44;133.97;33.68;Pix;Concluída;Loja Física;49
+31;20;2024-06-15 12:41:27;246.02;83.13;Pix;Concluída;Loja Física;57
+32;6;2024-05-11 09:16:12;469.77;67.64;Cartão de Crédito;Pendente;Loja Física;37
+33;97;2024-11-29 03:25:21;773.68;44.89;Pix;Concluída;Marketplace;61
+34;25;2024-07-16 00:10:36;431.06;94.71;Boleto;Pendente;Marketplace;100
+35;49;2024-07-20 16:51:53;552.62;41.87;Cartão de Crédito;Concluída;Loja Física;18
+36;33;2024-06-28 15:24:30;146.96;48.06;Boleto;Cancelada;Site;92
+37;67;2024-10-02 13:14:06;866.05;28.51;Cartão de Crédito;Pendente;Marketplace;66
+38;19;2024-04-21 14:14:18;847.94;9.17;Cartão de Crédito;Pendente;Marketplace;4
+39;54;2025-02-09 22:07:59;147.93;50.2;Cartão de Crédito;Pendente;Site;48
+40;29;2024-04-08 10:33:53;125.37;93.08;Pix;Cancelada;Marketplace;19
+41;18;2024-12-15 01:09:59;134.47;91.74;Boleto;Cancelada;Site;98
+42;91;2024-08-31 02:01:54;522.2;61.53;Cartão de Crédito;Concluída;Marketplace;28
+43;20;2025-03-15 23:49:57;593.92;72.72;Pix;Pendente;Site;100
+44;37;2025-03-04 12:45:51;313.88;12.18;Cartão de Crédito;Pendente;Loja Física;80
+45;59;2024-08-18 17:09:52;156.53;83.67;Boleto;Cancelada;Loja Física;3
+46;81;2025-01-31 02:55:10;563.84;24.19;Cartão de Crédito;Pendente;Marketplace;1
+47;79;2024-12-09 20:01:38;417.53;57.07;Cartão de Crédito;Cancelada;Loja Física;11
+48;68;2024-08-18 16:18:02;977.19;6.77;Pix;Cancelada;Loja Física;65
+49;71;2024-10-13 05:01:14;118.3;87.33;Cartão de Crédito;Cancelada;Marketplace;48
+50;33;2024-09-16 09:36:09;772.58;35.71;Cartão de Crédito;Pendente;Site;94
+51;85;2024-12-21 08:05:54;665.43;77.15;Pix;Pendente;Site;6
+52;46;2024-11-28 01:08:17;591.41;81.35;Cartão de Crédito;Cancelada;Marketplace;90
+53;62;2025-03-17 13:08:48;668.56;81.15;Cartão de Crédito;Cancelada;Marketplace;5
+54;38;2024-05-18 16:54:11;281.43;79.11;Cartão de Crédito;Pendente;Marketplace;66
+55;51;2024-10-15 05:26:59;990.21;54.3;Boleto;Concluída;Loja Física;25
+56;37;2024-05-30 19:58:53;421.28;78.08;Pix;Pendente;Marketplace;16
+57;48;2025-01-24 02:55:18;493.26;40.0;Boleto;Pendente;Marketplace;24
+58;64;2025-03-30 05:45:27;722.86;36.73;Pix;Pendente;Site;94
+59;55;2024-08-29 04:38:19;171.03;60.25;Cartão de Crédito;Cancelada;Marketplace;42
+60;14;2024-07-02 11:40:01;172.06;66.09;Boleto;Pendente;Loja Física;92
+61;55;2024-08-15 16:28:20;249.98;44.39;Boleto;Concluída;Loja Física;46
+62;79;2024-10-15 23:50:59;998.34;27.46;Cartão de Crédito;Concluída;Loja Física;82
+63;52;2024-07-09 04:52:53;426.98;80.11;Pix;Concluída;Site;19
+64;78;2024-10-02 23:47:06;710.28;43.82;Cartão de Crédito;Concluída;Site;100
+65;83;2024-06-09 05:19:40;429.7;38.29;Pix;Concluída;Loja Física;20
+66;87;2025-03-10 09:48:48;504.93;37.1;Boleto;Concluída;Loja Física;18
+67;68;2024-06-13 00:44:30;430.25;31.44;Boleto;Concluída;Site;4
+68;95;2024-08-26 22:49:55;267.44;51.77;Pix;Concluída;Marketplace;100
+69;34;2024-05-11 02:21:49;733.63;21.46;Pix;Pendente;Loja Física;63
+70;26;2024-08-15 00:49:03;210.37;85.28;Boleto;Concluída;Loja Física;57
+71;12;2024-08-01 02:44:29;829.46;96.76;Boleto;Cancelada;Marketplace;91
+72;9;2024-10-18 17:19:06;595.0;29.04;Boleto;Concluída;Loja Física;91
+73;90;2024-06-23 00:17:49;673.93;79.37;Pix;Concluída;Site;26
+74;18;2024-06-27 03:19:57;313.06;49.4;Boleto;Cancelada;Loja Física;48
+75;60;2024-05-05 11:51:27;823.3;55.16;Pix;Concluída;Site;40
+76;51;2025-02-14 04:29:10;999.64;71.89;Pix;Pendente;Marketplace;74
+77;10;2024-12-04 13:53:43;212.79;31.7;Cartão de Crédito;Pendente;Marketplace;88
+78;67;2025-02-04 06:30:49;410.06;87.8;Pix;Cancelada;Loja Física;24
+79;99;2025-03-25 04:28:44;969.64;43.26;Cartão de Crédito;Concluída;Loja Física;20
+80;39;2024-09-04 11:00:23;248.19;32.27;Pix;Concluída;Marketplace;67
+81;37;2024-06-10 06:07:34;861.34;25.06;Pix;Cancelada;Marketplace;17
+82;81;2024-07-13 02:23:07;372.54;53.35;Pix;Cancelada;Site;76
+83;75;2025-01-13 10:10:54;238.77;65.87;Pix;Cancelada;Marketplace;73
+84;6;2024-12-25 01:54:15;842.71;2.84;Cartão de Crédito;Cancelada;Loja Física;34
+85;84;2025-01-24 08:01:40;289.73;57.21;Pix;Cancelada;Site;64
+86;81;2024-09-29 21:53:40;591.02;64.19;Boleto;Pendente;Site;88
+87;52;2024-07-09 22:14:16;367.69;7.3;Cartão de Crédito;Concluída;Marketplace;54
+88;62;2025-02-23 19:38:09;518.0;34.02;Cartão de Crédito;Pendente;Loja Física;41
+89;94;2024-11-25 06:42:08;989.22;34.54;Boleto;Concluída;Marketplace;66
+90;72;2024-04-16 05:14:07;195.57;24.17;Cartão de Crédito;Pendente;Marketplace;32
+91;19;2024-09-27 22:13:40;187.13;29.02;Boleto;Cancelada;Marketplace;32
+92;21;2024-12-10 23:35:04;832.13;93.38;Pix;Pendente;Site;98
+93;21;2024-10-23 21:25:17;548.44;51.47;Boleto;Pendente;Marketplace;3
+94;12;2024-05-10 18:58:25;950.71;50.54;Cartão de Crédito;Concluída;Loja Física;46
+95;7;2024-12-20 17:26:34;145.49;49.49;Pix;Cancelada;Marketplace;37
+96;69;2024-11-30 13:27:11;107.36;10.75;Cartão de Crédito;Pendente;Loja Física;47
+97;98;2024-05-09 07:05:25;462.93;4.52;Cartão de Crédito;Cancelada;Loja Física;25
+98;47;2024-11-05 09:20:32;597.9;7.35;Pix;Pendente;Loja Física;36
+99;80;2024-12-15 10:29:10;712.36;11.88;Cartão de Crédito;Pendente;Marketplace;44
+100;72;2024-04-28 11:55:52;945.05;75.5;Cartão de Crédito;Cancelada;Loja Física;52
