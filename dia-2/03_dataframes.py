@@ -24,3 +24,16 @@ df_clientes.index
 df_clientes.info(memory_usage="deep")
 #%%
 df_clientes.dtypes["QtdePontos"]
+
+#%%
+idades = [1,2,4,1,3,56,52,2,41,12,43,12]
+
+idade_series = pd.Series(idades)
+idade_series = idade_series.sort_values()
+idade_series
+
+#%%
+idade_series.iloc[9]
+
+#%%
+df_clientes["FlTwitch"]
